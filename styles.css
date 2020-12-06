@@ -1,0 +1,22 @@
+.agreementCard {
+    background-color: navy;
+    margin-right: 72%;
+    border-radius: 10px;
+    margin-left: 10%;
+    /*Creates an entrance animation */
+    transition:1s;
+    color:black;
+    background-color:yellow
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.agreementCard:hover {
+    background-color:black;
+    color:yellow;
+    border-radius: 5px;
+    transition:1s;
+}
