@@ -3,7 +3,7 @@ function goToMovieAgree() {
 }
 
 const movieNavCardBtn = document.getElementById('movieBtn')
-const tvShowNavCardBtn
+const tvShowNavCardBtn = document.getElementById('tvShowBtn')
 
 
 movieNavCardBtn.addEventListener("click", () => {
