@@ -12,4 +12,5 @@ movie.addEventListener("click", () => {
 
 tvShow.addEventListener("click", () => {
     window.location.assign("/tvShows.html")
+    console.log('switched')
 })
